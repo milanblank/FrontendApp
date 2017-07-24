@@ -16,7 +16,7 @@ hrApp.factory('CommonResourcesFactory', function() {
             deleteJobUrl: baseUrl + "jobs",
             deleteLocationUrl: baseUrl + "locations",
             addDepartmentUrl: baseUrl + "departments",
-            addEmployeeUrl: baseUrl + "employees",
+            addEmployeeUrl: baseUrl + "employees/create/",
             addJobUrl: baseUrl + "jobs",
             addLocationUrl: baseUrl + "locations",
             editDepartmentUrl: baseUrl + "departments",
